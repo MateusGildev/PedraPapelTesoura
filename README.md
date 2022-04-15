@@ -1,2 +1,3 @@
 # PedraPapelTesoura
-Jogo simples feito em Java, na época em que estava aprendendo sobre condições.
+Jogo simples feito em Java. ✔️
+Feito em 15/04/2022 
